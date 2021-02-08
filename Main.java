@@ -13,7 +13,7 @@ public class Main {
         String [][] values = {
                 {"1", "2", "3", "4"},
                 {"1", "2", "3", "4"},
-                {"1", "2", "3", "6"},
+                {"1", "2", "3", "a"},
                 {"1", "2", "3", "4"}
         };
         new ArraySum().calculation(values);
